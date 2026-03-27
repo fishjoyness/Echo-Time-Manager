@@ -1,11 +1,11 @@
 # 📄 Echo子项目 | 个人时间管理与行为诊断系统
 
-\<p align="center"\>
-\<img src="[https://img.shields.io/badge/Spring%20Boot-3.0-green.svg](https://www.google.com/search?q=https://img.shields.io/badge/Spring%2520Boot-3.0-green.svg)" alt="Spring Boot"\>
-\<img src="[https://img.shields.io/badge/Vue.js-3.0-blue.svg](https://www.google.com/search?q=https://img.shields.io/badge/Vue.js-3.0-blue.svg)" alt="Vue"\>
-\<img src="[https://img.shields.io/badge/DeepSeek-V3-orange.svg](https://www.google.com/search?q=https://img.shields.io/badge/DeepSeek-V3-orange.svg)" alt="DeepSeek"\>
-\<img src="[https://img.shields.io/badge/License-MIT-yellow.svg](https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-yellow.svg)" alt="License"\>
-\</p\>
+<p align="center">
+<img src="https://img.shields.io/badge/Spring%20Boot-3.0-green.svg" alt="Spring Boot">
+<img src="https://img.shields.io/badge/Vue.js-3.0-blue.svg" alt="Vue">
+<img src="https://img.shields.io/badge/DeepSeek-V3-orange.svg" alt="DeepSeek">
+<img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
+</p>
 
 ## 🌟 这是一个什么神仙项目？
 
