@@ -1,4 +1,4 @@
-# 📄 Echo | 个人时间管理与行为诊断系统
+# 📄 Echo子项目 | 个人时间管理与行为诊断系统
 
 \<p align="center"\>
 \<img src="[https://img.shields.io/badge/Spring%20Boot-3.0-green.svg](https://www.google.com/search?q=https://img.shields.io/badge/Spring%2520Boot-3.0-green.svg)" alt="Spring Boot"\>
