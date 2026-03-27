@@ -58,15 +58,20 @@
 
 -----
 
-## 📈 演示快照 (看这大气排面)
+## 📈 演示快照 
 
-### 01\. 180天热力大屏（大气磅礴版）
+### 01\. 180天热力大屏
+<img width="2614" height="1322" alt="bfb4fd87f063d067633f0a4a82061f45" src="https://github.com/user-attachments/assets/d7abe932-a9a4-4c5b-b3a2-625c8f7a3e10" />
 
 ### 02\. 今日活动录入面板
+<img width="2640" height="1310" alt="1d39ffe71baab3189a6948c29bc5ef7b" src="https://github.com/user-attachments/assets/e7ad4aa2-2592-4264-bf09-b11101ba09bd" />
 
-### 03\. 数字化工作台大标题
+### 03\. 饼状图显示你的一天
+<img width="2278" height="1314" alt="696c11e0abfdbdad043bed2cbabf7cfe" src="https://github.com/user-attachments/assets/fcb9ec4a-0c41-496c-b820-f4614ce7f425" />
 
 -----
+
+
 
 ## 📦 快速开始 (3分钟部署指南)
 
@@ -89,8 +94,6 @@
 
   * **无需安装！** 直接使用浏览器打开项目根目录下的 `index.html`。
   * 注册账号并登录，开始你的第一次“行为诊断”。
-
------
 
 ## 🤝 贡献与支持
 
